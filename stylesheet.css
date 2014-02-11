@@ -5,7 +5,7 @@ body {
 	clear: both;
 	font-family: sans-serif;
 	font-weight: light;
-	font-size: 14px;
+	font-size: 13px;
 	color: #58595B;
 	background-color: #FEFFFE;
 }
@@ -26,4 +26,25 @@ h3 {
 	font-size: 18px;
 	font-weight: bold;
 	color: #156AA4;
+}
+
+a {
+	text-decoration: none;
+	color: #58595B;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #156AA4;
+}
+
+a:active {
+	text-decoration: #156AA4;
+}
+
+#resume {
+	clear: both;
+	width: 800px;
+	margin: auto;
+	padding: auto;
 }

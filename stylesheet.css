@@ -1,0 +1,29 @@
+/* CSS Document */
+
+/* General Site Styling*/
+body {
+	clear: both;
+	font-family: sans-serif;
+	font-weight: light;
+	font-size: 14px;
+	color: #58595B;
+	background-color: #FEFFFE;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight:bold;
+	color: #156AA4;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #156AA4;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #156AA4;
+}

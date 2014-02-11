@@ -42,9 +42,34 @@ a:active {
 	text-decoration: #156AA4;
 }
 
+
+#footer {
+	clear: both;
+	height: 300px;
+	margin: auto;
+	padding: auto;
+	padding-top: 20px;
+}
+
+/*Resume Page Styling*/
+
 #resume {
 	clear: both;
 	width: 800px;
 	margin: auto;
 	padding: auto;
 }
+
+/*Home Page Styling*/
+
+#home {
+	clear: both;
+	width: 900px;
+	margin: auto;
+	padding: auto;
+}
+
+.scroll {
+	width: 400px;
+}
+	
